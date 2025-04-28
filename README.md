@@ -71,6 +71,3 @@ python monitor_issues.py
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido por **[Seu Nome]** — Contato: [seu-email@dominio.com]
