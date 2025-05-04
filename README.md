@@ -20,8 +20,8 @@ Este script em Python realiza a contagem automática de issues em um projeto esp
 1. **Clone ou baixe o repositório**:
 
 ```bash
-git clone https://github.com/seu-usuario/monitor-jira-issues.git
-cd monitor-jira-issues
+git clone https://github.com/LGustavoMaciel/Monitoring-Issues.git
+cd Monitoring-Issues
 ```
 
 2. **Instale a dependência necessária**:
